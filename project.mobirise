@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -179,7 +179,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2-2000x1332.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -648,8 +648,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/huyitian-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/huyitian-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/huyitian-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/huyitian-1-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -661,7 +661,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/125527939-2000x3007-800x1202.png",
                 "image": "@PROJECT_PATH@/assets/images/125527939-2000x3007.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -681,7 +681,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/125640610-2000x2841-800x1136.png",
                 "image": "@PROJECT_PATH@/assets/images/125640610-2000x2841.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -933,7 +933,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/125640671-2000x3366-800x1346.png",
                 "image": "@PROJECT_PATH@/assets/images/125640671-2000x3366.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -943,7 +943,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/shen-yue-meteor-garden-e1510554509425-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/shen-yue-meteor-garden-e1510554509425-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -1202,7 +1202,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/125703292-2000x3003-800x1201.png",
                 "image": "@PROJECT_PATH@/assets/images/125703292-2000x3003.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -1212,7 +1212,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -1368,8 +1368,8 @@
           "_anchor": "msg-box6-2n",
           "_params": {
             "imageSize": "33",
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1391,7 +1391,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1510647974417451-1400x873.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lp7bbm-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1617,8 +1617,8 @@
           "_anchor": "msg-box6-2s",
           "_params": {
             "imageSize": "51",
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1640,7 +1640,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sobeau-19-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sobeau-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1690,7 +1690,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/125640735-2000x3391-800x1356.png",
                 "image": "@PROJECT_PATH@/assets/images/125640735-2000x3391.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -1710,7 +1710,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-2000x2500-800x1000.jpg",
                 "image": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-2000x2500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
