@@ -603,7 +603,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/c0710f2bgy1fikos6ijngj22kw3vcqjy-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1510036518-23280014-2033764576889866-8573964048167600128-n-1400x1750.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1086,7 +1086,7 @@
           "_name": "header2",
           "_anchor": "header2-38",
           "_params": {
-            "imageSize": "31",
+            "imageSize": "47",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1109,7 +1109,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/125640701-1-1400x2486.png",
+              "src": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
