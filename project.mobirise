@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -580,7 +580,7 @@
           "_name": "header2",
           "_anchor": "header2-36",
           "_params": {
-            "imageSize": "42",
+            "imageSize": "35",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -603,7 +603,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/large-1400x1750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/125527939-1400x2104.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1086,7 +1086,7 @@
           "_name": "header2",
           "_anchor": "header2-38",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "35",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1109,7 +1109,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/og-1-1400x735.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsjl0saumaabrug-1400x2102.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1129,7 +1129,12 @@
           },
           "title": "ซุนหนิง (孙宁)&nbsp;",
           "text": "&lt;รับบท ลู่หยาง หนุ่มน้อยแสนน่ารักและบอบบ้าง ไม่สู้คน เรียนไม่เก่ง ตอนโตเป็นโปรแกรมเมอร์&gt;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -1169,7 +1174,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/do1kejmuqaartr-1400x1929.jpg",
+              "src": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-1400x1750.jpg",
               "link": "",
               "alt": "",
               "title": "",
