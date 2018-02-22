@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page5.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -587,7 +587,7 @@
           },
           "_anchor": "msg-box5-1n",
           "_params": {
-            "imageSize": "39",
+            "imageSize": "29",
             "paddingTop": "3",
             "paddingBottom": "2",
             "parallax": true,
@@ -611,7 +611,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/006jttchgy1fdtp0gr5tnj31kw11x-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1510036518-23280014-2033764576889866-8573964048167600128-n-1400x1750.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -640,8 +640,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -674,17 +674,17 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/006jttchgy1fdsn3p0ugrj31kw2dcnp8-1-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/006jttchgy1fdsn3p0ugrj31kw2dcnp8-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imageproxy-2000x2909-800x1163.png",
+                "image": "@PROJECT_PATH@/assets/images/imageproxy-2000x2909.png",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "2",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
@@ -1149,8 +1149,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/23825035-1805383426427028-1303501748039581696-n-2000x1950-800x780.jpg",
-                "image": "@PROJECT_PATH@/assets/images/23825035-1805383426427028-1303501748039581696-n-2000x1950.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/125640682-2000x1501-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/125640682-2000x1501.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1169,8 +1169,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/125640681-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/125640681-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -1179,8 +1179,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -1320,7 +1320,7 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-2n",
           "_params": {
-            "imageSize": "52",
+            "imageSize": "34",
             "paddingTop": "3",
             "paddingBottom": "2",
             "parallax": true,
@@ -1344,7 +1344,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/og-1-1400x735.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsjl0saumaabrug-1400x2102.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1365,40 +1365,6 @@
           "title": "ซุนหนิง (孙宁)&nbsp;",
           "text": "&lt;รับบท ลู่หยาง หนุ่มน้อยแสนน่ารักและบอบบ้าง ไม่สู้คน เรียนไม่เก่ง ตอนโตเป็นโปรแกรมเมอร์&gt;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-31",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
     },
@@ -1540,7 +1506,7 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-2s",
           "_params": {
-            "imageSize": "44",
+            "imageSize": "31",
             "paddingTop": "3",
             "paddingBottom": "2",
             "parallax": true,
@@ -1564,7 +1530,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/enhumtq5odexntu4nw-1400x931.jpg",
+              "src": "@PROJECT_PATH@/assets/images/do1kejmuqaartr-1400x1929.jpg",
               "link": "",
               "alt": "",
               "title": "",
