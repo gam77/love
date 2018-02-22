@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -580,7 +580,7 @@
           "_name": "header2",
           "_anchor": "header2-36",
           "_params": {
-            "imageSize": "36",
+            "imageSize": "44",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -603,7 +603,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1510036518-23280014-2033764576889866-8573964048167600128-n-1400x1750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/006jttchgy1fdtp0gr5tnj31kw11x-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
