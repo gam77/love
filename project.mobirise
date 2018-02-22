@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 109,
+    "uniqCompNum": 110,
     "versionPublish": "3.12.1",
     "path": "file:///E:",
     "screenshot": "screenshot.png"
@@ -140,8 +140,8 @@
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -396,8 +396,8 @@
           "_name": "footer1",
           "_anchor": "footer1-11",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -559,8 +559,8 @@
           "_name": "footer1",
           "_anchor": "footer1-1j",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -661,7 +661,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1510036518-23280014-2033764576889866-8573964048167600128-n-2000x2500-800x1000.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1510036518-23280014-2033764576889866-8573964048167600128-n-2000x2500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -678,10 +678,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/740full-hu-yi-tian-2000x3551-800x1420.jpg",
-                "image": "@PROJECT_PATH@/assets/images/740full-hu-yi-tian-2000x3551.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/006jttchgy1fdsn3p0ugrj31kw2dcnp8-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/006jttchgy1fdsn3p0ugrj31kw2dcnp8-1-2000x3000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -809,8 +809,8 @@
           "_name": "footer1",
           "_anchor": "footer1-1s",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1061,8 +1061,8 @@
           "_name": "footer1",
           "_anchor": "footer1-2a",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1088,7 +1088,7 @@
           },
           "_anchor": "msg-box5-2i",
           "_params": {
-            "imageSize": "28",
+            "imageSize": "45",
             "paddingTop": "3",
             "paddingBottom": "2",
             "parallax": true,
@@ -1112,7 +1112,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/123085224-1400x2102.png",
+              "src": "@PROJECT_PATH@/assets/images/3813671-5a35157fb22e6-big-1400x735.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1172,17 +1172,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/125640681-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/125640681-2000x1333.png",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1510669101-3321055717-n-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1510669101-3321055717-n-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -1192,7 +1182,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -1313,23 +1303,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">story</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">เรื่องย่อ</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">vedio</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">เพลงประกอบซีรี่ย์</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">ตัวอย่างซีรี่ย์</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">photo</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">เฉินเสี่ยวซี</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">หุอีเทียน (เจียงเฉิน)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">หวางจื่อเวย</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">ลู่หยาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">เกาจื้อถง (อู๋ปั่วซง)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-2l",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": ""
-        },
-        {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
@@ -1394,67 +1367,38 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_inherit": "gallery1",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery3",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-31",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/og-2000x1050-800x420.jpg",
-                "image": "@PROJECT_PATH@/assets/images/og-2000x1050.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/love-2000x1285-800x514.jpg",
-                "image": "@PROJECT_PATH@/assets/images/love-2000x1285.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
             "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
-          "_anchor": "gallery3-2p",
-          "articleLayout": false,
-          "allItem": "All"
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
     },
@@ -1565,8 +1509,8 @@
           "_name": "footer1",
           "_anchor": "footer1-2r",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1620,7 +1564,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1515857575-1400x760.jpg",
+              "src": "@PROJECT_PATH@/assets/images/enhumtq5odexntu4nw-1400x931.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1687,8 +1631,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ab18-fynstfh8542292-2000x1362-800x544.png",
-                "image": "@PROJECT_PATH@/assets/images/ab18-fynstfh8542292-2000x1362.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dueb9envoaa6pm1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dueb9envoaa6pm1-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1814,8 +1758,8 @@
           "_name": "footer1",
           "_anchor": "footer1-2v",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
