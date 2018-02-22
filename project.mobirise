@@ -569,7 +569,7 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-3a",
           "_params": {
-            "imageSize": "35",
+            "imageSize": "38",
             "paddingTop": "3",
             "paddingBottom": "4",
             "parallax": true,
@@ -592,7 +592,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/006jttchgy1fdsn3p0ugrj31kw2dcnp8-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/large-1400x1750.jpg",
               "link": "",
               "alt": "",
               "title": "",
