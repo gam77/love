@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page6.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -174,9 +174,9 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-6",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "50",
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -198,7 +198,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1510037518-19534806-463792630653920-621905032463253504-n-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -235,8 +235,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ozp4hf64tb0d4bktyuu-o-2000x2802-800x1120.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ozp4hf64tb0d4bktyuu-o-2000x2802.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imageproxy-2000x2909-800x1163.png",
+                "image": "@PROJECT_PATH@/assets/images/imageproxy-2000x2909.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -245,8 +245,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/61d4be8bfc29ab2b6d5cab02f72e8e3b-2000x2807-800x1122.jpg",
-                "image": "@PROJECT_PATH@/assets/images/61d4be8bfc29ab2b6d5cab02f72e8e3b-2000x2807.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/61d4be8bfc29ab2b6d5cab02f72e8e3b-2000x2805-800x1122.jpg",
+                "image": "@PROJECT_PATH@/assets/images/61d4be8bfc29ab2b6d5cab02f72e8e3b-2000x2805.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -255,8 +255,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3meqvc-2000x2813-800x1125.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3meqvc-2000x2813.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3meqvc-2000x2812-800x1124.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3meqvc-2000x2812.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -611,7 +611,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ozp4xiqperpxqjluyg7-o-1400x1750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5540148-1400x2101.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -661,7 +661,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/006jttchgy1fdsn3p0ugrj31kw2dcnp8-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/006jttchgy1fdsn3p0ugrj31kw2dcnp8-2000x3000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -681,7 +681,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dndqg-mvqaewwhh-2000x3003-800x1201.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dndqg-mvqaewwhh-2000x3003.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -923,7 +923,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/26318926-155535081682551-1642004179520061440-n-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/26318926-155535081682551-1642004179520061440-n-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -933,7 +933,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/shen-yue-meteor-garden-e1510554509425-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/shen-yue-meteor-garden-e1510554509425-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -1088,9 +1088,9 @@
           },
           "_anchor": "msg-box5-2i",
           "_params": {
-            "imageSize": "31",
+            "imageSize": "28",
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1169,8 +1169,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/125640681-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/125640681-2000x1333.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1182,17 +1182,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1510669101-3321055717-n-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1510669101-3321055717-n-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/125640682-2000x1501-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/125640682-2000x1501.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -1349,7 +1349,7 @@
           "_params": {
             "imageSize": "55",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1408,30 +1408,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/125640708-2000x1500-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/125640708-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/og-2000x1050-800x420.jpg",
+                "image": "@PROJECT_PATH@/assets/images/og-2000x1050.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/09-35-33-99-2000x1616-800x646.jpg",
-                "image": "@PROJECT_PATH@/assets/images/09-35-33-99-2000x1616.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/125640708-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/125640708-2000x1500.png",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -1440,6 +1430,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247-800x498.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-20171116161115-kdeok-2000x1321-800x528.png",
+                "image": "@PROJECT_PATH@/assets/images/7-20171116161115-kdeok-2000x1321.png",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -1657,8 +1657,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860-800x344.jpg",
-                "image": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1667,10 +1667,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p04vrg4xdg6cl1mils7-o-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p04vrg4xdg6cl1mils7-o-2000x2500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860-800x344.jpg",
+                "image": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -1687,10 +1687,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-2000x2500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p04vrg4xdg6cl1mils7-o-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p04vrg4xdg6cl1mils7-o-2000x2500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
