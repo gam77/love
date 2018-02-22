@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page6.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -611,7 +611,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/large-1400x1750.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -678,8 +678,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/472a0000b1dc9cc796fd-2000x3000-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/472a0000b1dc9cc796fd-2000x3000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/006jttchgy1fdsn3p0ugrj31kw2dcnp8-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/006jttchgy1fdsn3p0ugrj31kw2dcnp8-1-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1149,8 +1149,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1340-800x536.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1340.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/love-2000x1440-800x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/love-2000x1440.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -1320,7 +1320,7 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-2n",
           "_params": {
-            "imageSize": "32",
+            "imageSize": "50",
             "paddingTop": "3",
             "paddingBottom": "2",
             "parallax": true,
@@ -1344,7 +1344,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/125640701-1400x2486.png",
+              "src": "@PROJECT_PATH@/assets/images/og-1-1400x735.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1530,7 +1530,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/p04vrg4xdg6cl1mils7-o-1400x1750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-1400x1750.jpg",
               "link": "",
               "alt": "",
               "title": "",
