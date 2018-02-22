@@ -639,11 +639,9 @@ h6,
 #menu-1i .close-icon::after {
   background-color: #ffffff;
 }
-#msg-box5-1n P {
-  text-align: left;
-}
-#msg-box5-1n H3 {
-  text-align: left;
+#msg-box8-33 .mbr-section-title,
+#msg-box8-33 p {
+  color: #fff;
 }
 
 
@@ -797,7 +795,6 @@ h6,
   text-align: left;
 }
 
-
 #menu-2k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -866,16 +863,17 @@ h6,
 #menu-2k .close-icon::after {
   background-color: #ffffff;
 }
-#msg-box6-2n .mbr-section-title,
-#msg-box6-2n .lead p {
+#msg-box8-35 .mbr-section-title,
+#msg-box8-35 p {
   color: #fff;
 }
-#msg-box6-2n P {
-  font-family: 'Lora', serif;
-  font-size: 18px;
+
+#header5-32 .mbr-section-title {
+  color: #000;
 }
-
-
+#header5-32 .mbr-section-lead {
+  color: #000000;
+}
 #menu-2q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -943,14 +941,6 @@ h6,
 #menu-2q .close-icon::before,
 #menu-2q .close-icon::after {
   background-color: #ffffff;
-}
-#msg-box6-2s .mbr-section-title,
-#msg-box6-2s .lead p {
-  color: #fff;
-}
-#msg-box6-2s P {
-  font-family: 'Lora', serif;
-  font-size: 18px;
 }
 
 
