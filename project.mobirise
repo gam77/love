@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -603,7 +603,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/006jttchgy1fdtp0gr5tnj31kw11x-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1510037518-19534806-463792630653920-621905032463253504-n-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1109,7 +1109,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/love-1400x899.jpg",
               "link": "",
               "alt": "",
               "title": "",
