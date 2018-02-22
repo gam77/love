@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -557,23 +557,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">story</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">เรื่องย่อ</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">vedio</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">เพลงประกอบซีรี่ย์</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">ตัวอย่างซีรี่ย์</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">character</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">เฉินเสี่ยวซี</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">หุอีเทียน (เจียงเฉิน)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">หวางจื่อเวย</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">ลู่หยาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">เกาจื้อถง (อู๋ปั่วซง)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-1j",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": ""
-        },
-        {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
@@ -586,7 +569,7 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-3a",
           "_params": {
-            "imageSize": "38",
+            "imageSize": "44",
             "paddingTop": "3",
             "paddingBottom": "4",
             "parallax": true,
@@ -609,7 +592,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1510036518-23280014-2033764576889866-8573964048167600128-n-1400x1750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1085,7 +1068,7 @@
           "_name": "header2",
           "_anchor": "header2-38",
           "_params": {
-            "imageSize": "45",
+            "imageSize": "31",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1108,7 +1091,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dueb9envoaa6pm1-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ovpexc-1400x1838.jpg",
               "link": "",
               "alt": "",
               "title": "",
