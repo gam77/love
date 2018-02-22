@@ -580,7 +580,7 @@
           "_name": "header2",
           "_anchor": "header2-36",
           "_params": {
-            "imageSize": "35",
+            "imageSize": "42",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -603,7 +603,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3meqvc-1400x1969.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1510037518-19534806-463792630653920-621905032463253504-n-1400x934.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1109,7 +1109,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/125640708-1400x1050.png",
+              "src": "@PROJECT_PATH@/assets/images/09-35-33-99-1400x1131.jpg",
               "link": "",
               "alt": "",
               "title": "",
