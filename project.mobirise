@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -179,7 +179,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-2000x1332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -587,7 +587,7 @@
           },
           "_anchor": "msg-box5-1n",
           "_params": {
-            "imageSize": "35",
+            "imageSize": "29",
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
@@ -611,7 +611,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1a1a43d1657c1adc50ec25a3f8613a04-1400x1733.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ozp4xiqperpxqjluyg7-o-1400x1750.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1088,9 +1088,9 @@
           },
           "_anchor": "msg-box5-2i",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "imageSize": "31",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1112,7 +1112,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/125703380-1400x933.png",
+              "src": "@PROJECT_PATH@/assets/images/123085224-1400x2102.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1183,16 +1183,6 @@
                 "image": "@PROJECT_PATH@/assets/images/1510669101-3321055717-n-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/125703371-2000x1118-800x447.png",
-                "image": "@PROJECT_PATH@/assets/images/125703371-2000x1118.png",
-                "caption": "Type caption here",
-                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -1418,10 +1408,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7-20171116161115-kdeok-2000x1321-800x528.png",
-                "image": "@PROJECT_PATH@/assets/images/7-20171116161115-kdeok-2000x1321.png",
+                "thumb": "@PROJECT_PATH@/assets/images/125640708-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/125640708-2000x1500.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -1451,7 +1441,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247-800x498.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
@@ -1606,9 +1596,9 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-2s",
           "_params": {
-            "imageSize": "51",
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "imageSize": "39",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1630,7 +1620,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sobeau-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
