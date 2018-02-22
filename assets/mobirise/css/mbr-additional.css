@@ -640,11 +640,9 @@ h6,
 #menu-1i .close-icon::after {
   background-color: #ffffff;
 }
-#header2-36 .mbr-section-title {
-  text-align: center;
-}
-#header2-36 .mbr-section-text {
-  text-align: center;
+#msg-box7-3a .mbr-section-title,
+#msg-box7-3a .lead p {
+  color: #fff;
 }
 
 

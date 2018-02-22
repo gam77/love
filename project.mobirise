@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 118,
+    "uniqCompNum": 119,
     "versionPublish": "3.12.1",
     "path": "file:///E:",
     "screenshot": "screenshot.png"
@@ -574,40 +574,47 @@
           "text": ""
         },
         {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-36",
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-3a",
           "_params": {
-            "imageSize": "42",
+            "imageSize": "38",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "showArrow": false
+            "showButtons": false
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1510037518-19534806-463792630653920-621905032463253504-n-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1510036518-23280014-2033764576889866-8573964048167600128-n-1400x1750.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -616,22 +623,14 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
               "size": 250
             }
           },
           "title": "หูอีเทียน (胡一天)",
           "text": "&lt;รับบทเจียงงเฉิน นิสัยเป็นผู้ชายเย็นชา โลกส่วนตัวสูง เรียนเก่ง ตัวสูง<br>อาชีพในตอนโต คือ ศัลยแพทย์หัวใจ&gt;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center"
-            },
-            ".mbr-section-text": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -1109,7 +1108,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/09-35-33-99-1400x1131.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dueb9envoaa6pm1-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
