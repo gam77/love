@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 114,
+    "uniqCompNum": 118,
     "versionPublish": "3.12.1",
     "path": "file:///E:",
     "screenshot": "screenshot.png"
@@ -416,7 +416,8 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead SPAN": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "color": "#000000"
@@ -426,7 +427,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -573,91 +574,64 @@
           "text": ""
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-33",
+          "_name": "header2",
+          "_anchor": "header2-36",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "imageSize": "42",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#222",
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/large-1400x1750.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
           },
           "title": "หูอีเทียน (胡一天)",
-          "text": "<p>&lt;รับบทเจียงงเฉิน นิสัยเป็นผู้ชายเย็นชา โลกส่วนตัวสูง เรียนเก่ง  ตัวสูง</p><p>อาชีพในตอนโต คือ  ศัลยแพทย์หัวใจ&gt;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dpwp-wvqaao5za-2000x3002-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dpwp-wvqaao5za-2000x3002.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1510036518-23280014-2033764576889866-8573964048167600128-n-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1510036518-23280014-2033764576889866-8573964048167600128-n-2000x2500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/large-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/large-2000x2500.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-1o",
-          "articleLayout": false,
-          "allItem": "All"
+          "text": "&lt;รับบทเจียงงเฉิน นิสัยเป็นผู้ชายเย็นชา โลกส่วนตัวสูง เรียนเก่ง ตัวสูง<br>อาชีพในตอนโต คือ ศัลยแพทย์หัวใจ&gt;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -769,23 +743,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">story</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">เรื่องย่อ</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">vedio</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">เพลงประกอบซีรี่ย์</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">ตัวอย่างซีรี่ย์</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">character</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">เฉินเสี่ยวซี</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">หุอีเทียน (เจียงเฉิน)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">หวางจื่อเวย</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">ลู่หยาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">เกาจื้อถง (อู๋ปั่วซง)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-1s",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": ""
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -802,9 +759,9 @@
           },
           "_anchor": "msg-box5-1y",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "imageSize": "63",
+            "paddingTop": "5",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -847,69 +804,6 @@
           "title": "เฉินเย่ว์ (沈月)&nbsp;",
           "text": "&lt;รับบทเป็น เฉินเสี่ยวซี นิสัย เรียนไม่เก่ง ชอบวาดรูป คิดในแง่บวก อารมณ์ดี ตัวเล็ก อาชีพในตอนโตเป็นนักวาดการ์ตูน&gt;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/oz4yia3mnro03l5lglm-o-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/oz4yia3mnro03l5lglm-o-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3812750-5a290673b8d53-big-2000x1050-800x420.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3812750-5a290673b8d53-big-2000x1050.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/26318926-155535081682551-1642004179520061440-n-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/26318926-155535081682551-1642004179520061440-n-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shen-yue-meteor-garden-e1510554509425-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/shen-yue-meteor-garden-e1510554509425-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-1z",
-          "articleLayout": false,
-          "allItem": "All"
         }
       ]
     },
@@ -1021,23 +915,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">story</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">เรื่องย่อ</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">vedio</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">เพลงประกอบซีรี่ย์</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">ตัวอย่างซีรี่ย์</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">character</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">เฉินเสี่ยวซี</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">หุอีเทียน (เจียงเฉิน)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">หวางจื่อเวย</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">ลู่หยาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">เกาจื้อถง (อู๋ปั่วซง)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-2a",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": ""
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1051,9 +928,9 @@
           },
           "_anchor": "msg-box5-2i",
           "_params": {
-            "imageSize": "45",
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "imageSize": "52",
+            "paddingTop": "5",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1096,59 +973,6 @@
           "title": "หวางจื่อเวย (王梓薇 )&nbsp;",
           "text": "&lt;รับบท หลินจิ้งเสี่ยวหรือจิงจิง เป็นเพื่อนสนิทนาเอก นิสัยห้าวๆไม่ยอมคน รักเพื่อน เรียงเก่ ตอนโตเป็นนักดาราศาสตร์&gt;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3813671-5a35157fb22e6-big-2000x1050-800x420.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3813671-5a35157fb22e6-big-2000x1050.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fe6a33047785eb478d85304e18376505-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-2j",
-          "articleLayout": false,
-          "allItem": "All"
         }
       ]
     },
@@ -1256,81 +1080,56 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">story</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">เรื่องย่อ</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">vedio</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">เพลงประกอบซีรี่ย์</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">ตัวอย่างซีรี่ย์</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">character</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">เฉินเสี่ยวซี</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">หุอีเทียน (เจียงเฉิน)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">หวางจื่อเวย</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">ลู่หยาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">เกาจื้อถง (อู๋ปั่วซง)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-35",
+          "_name": "header2",
+          "_anchor": "header2-38",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
+            "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/og-1-1400x735.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
           },
           "title": "ซุนหนิง (孙宁)&nbsp;",
-          "text": "<p>&lt;รับบท ลู่หยาง หนุ่มน้อยแสนน่ารักและบอบบ้าง ไม่สู้คน เรียนไม่เก่ง ตอนโตเป็นโปรแกรมเมอร์&gt;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/b446195ddaf067919f0af7917e7dd802cc2a1dff-hq-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/og-2000x1050-800x420.jpg",
-                "image": "@PROJECT_PATH@/assets/images/og-2000x1050.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": false
-          },
-          "_anchor": "gallery3-34",
-          "articleLayout": false,
-          "allItem": "All"
+          "text": "&lt;รับบท ลู่หยาง หนุ่มน้อยแสนน่ารักและบอบบ้าง ไม่สู้คน เรียนไม่เก่ง ตอนโตเป็นโปรแกรมเมอร์&gt;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -1341,42 +1140,64 @@
       },
       "components": [
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-32",
+          "_name": "header2",
+          "_anchor": "header2-39",
           "_params": {
+            "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0",
+            "overlay": true,
+            "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/do1kejmuqaartr-1400x1929.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
           },
           "title": "เกาจื้อถง(高至霆)",
           "text": "&lt;รับบท เกาจื้อถงหรืออู๋ปั่วซง นักกีฬาว่ายน้ำแอบชอบนางเอกตั้งเเต่ครั้งแรกที่รู้จัก ไม่ยอมคน เรียนไม่เก่ง ใจดีชอบช่วยเหลือเพื่อนเสมอ โตตอนเป็นนักแสดง&gt;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
@@ -1491,69 +1312,6 @@
             "overlayColor": "#444444"
           },
           "text": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/25014564-478553895873308-8395079678196449280-n-2000x2500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860-800x344.jpg",
-                "image": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sobeau-19-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sobeau-19-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dueb9envoaa6pm1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dueb9envoaa6pm1-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-2t",
-          "articleLayout": false,
-          "allItem": "All"
         }
       ]
     },

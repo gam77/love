@@ -566,6 +566,7 @@ h6,
 }
 #header1-14 .mbr-section-lead SPAN {
   text-align: center;
+  color: #000000;
 }
 #header1-14 .mbr-section-title {
   color: #000000;
@@ -639,9 +640,11 @@ h6,
 #menu-1i .close-icon::after {
   background-color: #ffffff;
 }
-#msg-box8-33 .mbr-section-title,
-#msg-box8-33 p {
-  color: #fff;
+#header2-36 .mbr-section-title {
+  text-align: center;
+}
+#header2-36 .mbr-section-text {
+  text-align: center;
 }
 
 
@@ -863,16 +866,12 @@ h6,
 #menu-2k .close-icon::after {
   background-color: #ffffff;
 }
-#msg-box8-35 .mbr-section-title,
-#msg-box8-35 p {
-  color: #fff;
-}
 
-#header5-32 .mbr-section-title {
-  color: #000;
+#header2-39 .mbr-section-title {
+  text-align: center;
 }
-#header5-32 .mbr-section-lead {
-  color: #000000;
+#header2-39 .mbr-section-text {
+  text-align: center;
 }
 #menu-2q .hide-buttons .nav-btn {
   display: none !important;
