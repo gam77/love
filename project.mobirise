@@ -580,7 +580,7 @@
           "_name": "header2",
           "_anchor": "header2-36",
           "_params": {
-            "imageSize": "35",
+            "imageSize": "48",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -603,7 +603,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dndqg-mvqaewwhh-1400x2102.jpg",
+              "src": "@PROJECT_PATH@/assets/images/15124341660791630023907-1400x932.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1086,7 +1086,7 @@
           "_name": "header2",
           "_anchor": "header2-38",
           "_params": {
-            "imageSize": "35",
+            "imageSize": "56",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1109,7 +1109,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1h1325s5-1400x1195.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beau02-1400x588.jpg",
               "link": "",
               "alt": "",
               "title": "",
